@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Mrvicky321/online_users/issues"
   },
-  "homepage": "https://github.com/Mrvicky321/online_users#readme"
+  "homepage": "https://github.com/Mrvicky321/online_users#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
