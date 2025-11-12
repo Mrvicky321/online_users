@@ -73,7 +73,7 @@ app.post("/api/user/login", async (request, response) => {
     }
 });
 
-app.listen(4001, (error)=>{
+app.listen(4002, (error)=>{
     if(error) console.log("Error "+ error);
-    console.log("Server is running on port 4001");
+    console.log("Server is running on port 4002");
 })
